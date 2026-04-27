@@ -1,7 +1,7 @@
 ## **Ring Zero Kernel**
 
 ```
-This is my project for Ring 0 Kernel. Im making this as a simple tool for beginners to start tinkering with complete access to all kernel levels
+This is my project for doing Ring 0 Kernel level tinkering in C & Asm. 
 ```
  
 * ### **First install docker container from the dockerfile in env**
