@@ -1,7 +1,7 @@
 ## **Ring Zero Kernel**
 
 ```
-This is a project for doing Ring 0 Kernel level tinkering in C & Asm. 
+This is a project for doing Ring 0 Hardware level tinkering in C & Asm. 
 ```
  
 * ### **First install docker container from the dockerfile in env**
