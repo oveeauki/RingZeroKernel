@@ -4,7 +4,7 @@
 This is a project for doing Ring 0 Hardware level tinkering in C & Asm. 
 ```
  
-* ### **First install docker container from the dockerfile in env**
+* ### **To complile after editing source: create docker container from the dockerfile in env**
 * ### **then run the docker container and go to the repo folder then run :**
 
 ```sh
